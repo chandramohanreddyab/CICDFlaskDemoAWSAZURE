@@ -1,0 +1,17 @@
+h1 {
+  color: black ;
+  text-align: center;
+}
+h2 {
+  color: light yellow ;
+  text-align: center;
+}
+h3 {
+  color: light blue ;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
